@@ -57,7 +57,7 @@ A powerful and interactive **Streamlit-based Data Visualization Web App** design
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/advanced-data-visualizer.git
+git clone https://github.com/jhas876622/advanced-data-visualizer.git
 cd advanced-data-visualizer
 ```
 
