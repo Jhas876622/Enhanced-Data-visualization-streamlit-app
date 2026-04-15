@@ -129,7 +129,7 @@ This project is licensed under the **MIT License**.
 ## 🔗 Live Demo
 
 Access the live deployed Streamlit app here:
-👉 **[Live Demo](https://first-app-aefjsixdappf6zhzgxzhmuk.streamlit.app/)**
+👉 **[Live Demo](https://enhanced-data-visualization-app.streamlit.app/)**
 
 ---
 
