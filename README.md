@@ -134,9 +134,8 @@ Access the live deployed Streamlit app here:
 ---
 
 ## 📧 Contact
-
-**Developer:** *Satyam Kumar Jha*
-**Email:** [jha876622@gmail.com](mailto:your.email@example.com)
+*Satyam Kumar Jha*
+**Email:** jha876622@gmail.com
 ---
 
 ⭐ If you found this useful, don't forget to star the repository!
